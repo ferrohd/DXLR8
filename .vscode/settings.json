@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.nc": "c",
+        "array": "cpp",
+        "*.tcc": "cpp",
+        "algorithm": "cpp",
+        "random": "cpp",
+        "numeric": "cpp"
+    }
+}
